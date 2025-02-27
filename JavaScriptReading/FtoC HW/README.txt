@@ -6,7 +6,15 @@ I began with ' let f = 99;
 
 And had ' let c = (f - 32) * 5 / 9;
 
-Then I didn't know what to do so I went into chat gpt and it told me this code:
+Then I didn't know what to do so I went into chat gpt and copied pasted this part of the question:
+
+Write a program that converts 99 Fahrenheit to Celsius
+
+Create two variables, f and c
+Use the equation:
+Celsius = (Fahrenheit - 32) 5 / 9
+
+it told me this code:
 
 let f = 99;  // Fahrenheit
 
