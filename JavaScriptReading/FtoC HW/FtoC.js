@@ -1,3 +1,3 @@
-let f = 99;  // Fahrenheit
-let c = (f - 32) * 5 / 9;  // Conversion formula
+let f = 99;
+let c = (f - 32) * 5 / 9;
 console.log("Celsius:", c);
