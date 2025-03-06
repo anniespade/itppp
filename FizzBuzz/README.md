@@ -2,6 +2,14 @@
 
 I started by asking chat gpt this : 
 
+Write a JavaScript program that prints all the integers between 1 and 100, except in three situations:
+
+If an integer in the counter is divisible by 3, print "Fizz";
+
+if an integer in the counter is divisible by 5, print "Buzz";
+
+if an integer in the counter is divisible by both 3 and 5, print "FizzBuzz". in javascript
+
 
 It spit out this code:
 
