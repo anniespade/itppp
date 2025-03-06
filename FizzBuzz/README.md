@@ -82,7 +82,7 @@ Moving on to this:
 		
         console.log("Buzz");
 		
-else is used in a block of code after an 'if' statement. Stating what do do if the previous statment is deemed false [source](https://www.w3schools.com/js/js_if_else.asp)
+else is used in a block of code after an 'if' statement. Stating what to do if the previous statment is deemed false [source](https://www.w3schools.com/js/js_if_else.asp)
 
 
 Importat thing I'm noting for myself: console.log has to be in {}
