@@ -30,7 +30,7 @@ Moving onto the 2nd line
 
 'i % 3 === 0 && i % 5 === 0' means that i has to be divisable by 3 and 5
 
-&& means a command can only run if both statments are true
+&& means a command can only run if both statments are true [source](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
 
 console.log("FizzBuzz") - this says to print this string if the prior conditional is met.
 
@@ -40,12 +40,13 @@ Moving on to this:
         console.log("Fizz");
     } else if (i % 5 === 0) {
         console.log("Buzz");
-else is used in a block of code after an 'if' statement. Stating what do do if the previous statment is deemed false
+else is used in a block of code after an 'if' statement. Stating what do do if the previous statment is deemed false [source](https://www.w3schools.com/js/js_if_else.asp)
 
 Importat thing I'm noting for myself: console.log has to be in {}
 
-Lastly:
+Lastly breaking down:
+else {
+        console.log(i);
+		}
 
-console.log(i);
-
-This executes i
+This means that if the number (i) is neither divisable by 3, 5 or both- then just print i as normal.
