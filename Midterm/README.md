@@ -2,7 +2,8 @@
 
 [LINK TO MY PROJECT](https://editor.p5js.org/anniespade/full/SWDWKQNDD)
 
-I used Chat GPT to help code this and the whole conversation can be found [here] (https://chatgpt.com/share/67e58539-0e88-8013-98e7-d242a9a8c83b)
+I used Chat GPT to help code this and the whole conversation can be found 
+[here](https://chatgpt.com/share/67e58539-0e88-8013-98e7-d242a9a8c83b)
 
 
 First of all I went into Chat GPT and pasted the codealong and the decription of the assignment:
