@@ -12,7 +12,7 @@ Resources:
 
 - Can hit a button, start recording a loop, hit another button to end the loop. Then the recording will immediatly start playing and looping itself. Then you can hit another button and it will record another layer onto the loop. The trick here, I think, is that I'll need make sure that when I want to add another layer to recording, I need to make sure that no matter when I hit the button, it will start recording again in the start of the next loop and finish when the first loop ends. And hitting another button will reset the loop. I already have Pyaudio installed on my computer, so I'm hoping to use that forthis project, or p5.js.
 
-N/A
+N/A for the work overlapping.
 
 Good outcome: Application is able to get a short recording from the mic input and then loop it.
 
