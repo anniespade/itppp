@@ -31,16 +31,16 @@ Week two goal: Get the visuals of this application looking nice.
 Week 3 goal: Troubleshooting and refining features.
 
 
-For Live Vocal Processor:
+##For Live Vocal Processor:
 
 Good outcome: Getting the reverb live.
 
 Better outcome: Getting the reverb and harmonies to work.
 
-Best Outcome: Application is able to CLEANLY get a short recording from the mic input, loop it, and then CLEANLY add more layers of looped recordings from the mic input.
+Best Outcome: Getting the Harmonies to sound good
 
-Week one goal: Have the basic functions down and keys working. Able to add at least two loops ontop of eachother.
+Week one goal: Reverb done
 
-Week two goal: Get the visuals of this application looking nice.
+Week two goal: Harmonies done
 
 Week 3 goal: Troubleshooting and refining features.
