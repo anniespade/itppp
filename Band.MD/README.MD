@@ -58,6 +58,9 @@ Next we all wrote bios!
 Sarah went first, then Nick, then Malcolm, and then me!
 
 Everyone's performance review:
+
 Nick - Cool! Wrote everything down
-Malcolm - Brough some cool ideas for the nature vibe!
+
+Malcolm - Brought some cool ideas for the nature vibe!
+
 Sarah - Brought a lot! Knew a lot about what to do for this project because she's working on her own website project. Knew a lot about using CSS.
